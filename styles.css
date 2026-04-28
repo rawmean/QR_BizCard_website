@@ -1,4 +1,4 @@
-/* ===== QR BizCard Website Styles ===== */
+/* ===== Qard Website Styles ===== */
 
 :root {
   --primary: #4D6585;
@@ -565,7 +565,7 @@ img {
 }
 
 .cta .app-store-button img {
-  filter: brightness(0) invert(1);
+  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2));
 }
 
 /* ===== Footer ===== */
